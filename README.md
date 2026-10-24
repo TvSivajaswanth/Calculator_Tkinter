@@ -2,7 +2,10 @@
 
 A simple desktop calculator built with Python and Tkinter. It supports brackets, powers, and a calculation history panel.
 
-![Calculator screenshot](screenshot.png)
+## 📸 Preview
+
+<img width="842" height="821" alt="Screenshot 2026-10-06 190656" src="C:\Users\jashu\OneDrive\Pictures\Screenshots\Screenshot 2026-10-24 194307.png" />
+
 
 > Add a screenshot of your calculator as `screenshot.png` in the project folder so it shows up here.
 
