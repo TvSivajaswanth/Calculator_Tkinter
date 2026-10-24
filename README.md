@@ -5,6 +5,8 @@ A simple desktop calculator built with Python and Tkinter. It supports brackets,
 ## 📸 Preview
 
 <img width="472" height="492" alt="image" src="https://github.com/user-attachments/assets/8a03f991-e398-4d4a-bb18-e56be0894696" />
+/----------------------------------------------------
+<img width="477" height="492" alt="image" src="https://github.com/user-attachments/assets/d08c4e14-011a-42b5-ada1-b4e316cff8cf" />
 
 ---
 
