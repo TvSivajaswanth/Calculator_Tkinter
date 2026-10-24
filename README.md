@@ -4,10 +4,7 @@ A simple desktop calculator built with Python and Tkinter. It supports brackets,
 
 ## 📸 Preview
 
-<img width="842" height="821" alt="Screenshot 2026-10-06 190656" src="C:\Users\jashu\OneDrive\Pictures\Screenshots\Screenshot 2026-10-24 194307.png" />
-
-
-> Add a screenshot of your calculator as `screenshot.png` in the project folder so it shows up here.
+<img width="472" height="492" alt="image" src="https://github.com/user-attachments/assets/8a03f991-e398-4d4a-bb18-e56be0894696" />
 
 ---
 
@@ -92,7 +89,6 @@ No other libraries are needed.
 ```
 Calculator_Tkinter/
 ├── calculator.py    # main program
-├── screenshot.png   # screenshot used in this README
 └── README.md
 ```
 
@@ -121,8 +117,8 @@ Calculator_Tkinter/
 
 ## Author
 
-Made by **<your-name>**. Feel free to open an issue or suggest improvements.
+Made by **<Tv.Siva Jaswanth>**. Feel free to open an issue or suggest improvements.
 
 ## License
 
-This project is open source. Add a license (for example MIT) if you want others to reuse it.
+This project is open source.
